@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://allan-regulation-category-lessons.trycloudflare.com/vnc.html
+URL       : https://selling-plot-studying-governance.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-18 14:22:32
+Created   : 2026-09-18 18:19:12
 =======================================================
