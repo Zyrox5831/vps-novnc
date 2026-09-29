@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://coastal-homes-telecommunications-nuke.trycloudflare.com/vnc.html
+URL       : https://environment-kirk-excellence-pack.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-29 00:20:35
+Created   : 2026-09-29 11:17:14
 =======================================================
