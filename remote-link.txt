@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://generate-lisa-fabrics-aqua.trycloudflare.com/vnc.html
+URL       : https://trace-guns-lobby-strange.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-07 05:36:45
+Created   : 2026-10-07 17:24:41
 =======================================================
