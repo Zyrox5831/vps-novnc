@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://father-flowers-durham-controller.trycloudflare.com/vnc.html
+URL       : https://determined-arguments-minor-inspection.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-17 04:09:22
+Created   : 2026-10-17 09:11:07
 =======================================================
