@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://organizational-continuously-outside-others.trycloudflare.com/vnc.html
+URL       : https://instead-welding-utah-section.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-26 04:24:56
+Created   : 2026-10-26 10:57:58
 =======================================================
