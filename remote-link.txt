@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://fits-sunday-brush-availability.trycloudflare.com/vnc.html
+URL       : https://bronze-distant-breed-undergraduate.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-28 16:35:12
+Created   : 2026-10-28 23:59:54
 =======================================================
